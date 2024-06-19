@@ -97,3 +97,5 @@ if __name__ == "__main__":
     print(magic_numbers())
     poor_error_handling()
     long_function()
+
+
